@@ -7,3 +7,5 @@ Bem-vindo ao meu repositório de certificados! Aqui neste repositório estão ce
 ### Curso : C# primeiros passos: Lógica de Programação e Algoritmos
 **Instituição:** Udemy
 **Carga horária:** 7.5h
+[Ver certificado (PDF)]
+(CERTIFICADODOC#2.pdf)
